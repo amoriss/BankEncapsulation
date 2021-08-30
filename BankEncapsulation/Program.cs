@@ -19,7 +19,7 @@ namespace BankEncapsulation
 
                 {
                     Console.WriteLine("Do you want to enter money in account? Enter: YES or NO");
-                    var answer = Console.ReadLine();//.ToLower();
+                    var answer = Console.ReadLine();
                     switch (answer.ToLower())
                     {
                         case "yes":
