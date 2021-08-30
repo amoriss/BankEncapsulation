@@ -1,0 +1,16 @@
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.AssemblyInfo.cs
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.exe
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.deps.json
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.runtimeconfig.json
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.runtimeconfig.dev.json
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.dll
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\ref\BankEncapsulation.dll
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.pdb
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.dll
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\ref\BankEncapsulation.dll
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.pdb
+C:\Users\amori\repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.genruntimeconfig.cache
